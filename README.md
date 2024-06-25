@@ -1,6 +1,6 @@
 ## Hi there, I'm Dinz👋
 
-- 🌱 I’m currently learning a whole lot tbh ;-;
+- 🌱 I’m currently learning computer systems and network engineering ;-;
 - 📫 How to reach me: d.dulakshi1114@gmail.com
 
 
@@ -9,3 +9,11 @@
 
 ![787c61ac23ad2ec7fcee36832ebe860d](https://github.com/dinzx/dinzx/assets/118602917/db312bce-39e0-437a-b489-785bb3c0c554)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinzx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dinzx&icon=0&color=0)](https://visitcount.itsvg.in)
+
